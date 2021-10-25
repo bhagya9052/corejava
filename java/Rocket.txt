@@ -1,0 +1,9 @@
+Class Rocket{
+public static void main(string []args)}
+//datatype []rv=values;
+int []models= {45861,87619,32497};
+models[1] = 94613;
+int model=models[1];
+system.out.println(model);
+}
+} 
